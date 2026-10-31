@@ -27,13 +27,13 @@ The approach requires **no external training dataset or pretrained model weights
 
 ### Figure 1 — Pixel-domain vs. Gaussian-domain Dehazing
 
-![Figure 1. Comparison of pixel-domain image dehazing and explicit Gaussian-domain image dehazing.](./Fig/1.png)
+![Figure 1. Comparison of pixel-domain image dehazing and explicit Gaussian-domain image dehazing.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/1.jpg)
 
 *Figure 1 in the paper. Comparison between conventional pixel-domain dehazing and dehazing in an explicit 2D Gaussian representation domain.*
 
 ### Figure 2 — Overall Framework
 
-![Figure 2. Overview of the Dehaze-GaussianImage framework.](./Fig/2.png)
+![Figure 2. Overview of the Dehaze-GaussianImage framework.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/2.jpg)
 
 *Figure 2 in the paper. The two-stage framework combines explicit hazy-image reconstruction with physics-disentangled Gaussian optimization.*
 
@@ -41,13 +41,13 @@ The approach requires **no external training dataset or pretrained model weights
 
 ### NID Dataset
 
-![Qualitative dehazing results on the NID dataset.](./Fig/3.png)
+![Qualitative dehazing results on the NID dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/1.jpg)
 
 *Qualitative visualization of dehazing results on the NID dataset.*
 
 ### SOTS Dataset
 
-![Qualitative dehazing results on the SOTS dataset.](./Fig/4.png)
+![Qualitative dehazing results on the SOTS dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/1.jpg)
 
 *Qualitative visualization of dehazing results on the SOTS dataset.*
 
