@@ -149,7 +149,7 @@ If you find this project or our research useful, please consider citing our pape
 
 ## Contact
 
-For questions or discussions, please feel free to contact **Yuhan Chen** at **[20240701028@stu.cqu.edu.cn](mailto:20240701028@stu.cqu.edu.cn)** or open an issue in this repository.
+For questions or discussions, please feel free to contact **Yuhan Chen** or open an issue in this repository.
 
 ## License
 
