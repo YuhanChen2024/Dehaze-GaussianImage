@@ -41,13 +41,13 @@ The approach requires **no external training dataset or pretrained model weights
 
 ### NID Dataset
 
-![Qualitative dehazing results on the NID dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/1.jpg)
+![Qualitative dehazing results on the NID dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/3.jpg)
 
 *Qualitative visualization of dehazing results on the NID dataset.*
 
 ### SOTS Dataset
 
-![Qualitative dehazing results on the SOTS dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/1.jpg)
+![Qualitative dehazing results on the SOTS dataset.](https://github.com/YuhanChen2024/Dehaze-GaussianImage/blob/main/Fig/4.jpg)
 
 *Qualitative visualization of dehazing results on the SOTS dataset.*
 
